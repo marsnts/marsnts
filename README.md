@@ -1,37 +1,68 @@
-<!-- Created with GitHub Profile Studio -->
+<p align="center">
+  <a href="https://github.com/marsnts">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=538&text=Hello!%20I'm%20Mar" alt="Hello! I&#39;m Mar" />
+  </a>
+</p>
 
-<h1 align="center">Electronics Engineering Graduate</h1>
-<h3 align="center">Aspiring DevNetOps Engineer</h3>
-
-Software engineer focused on writing clean, maintainable code. I value simplicity, thorough testing, and clear documentation. Currently working on distributed systems at scale.
-
-• 💻 Clean code advocate
-
-• ✅ Test-driven development
-
-• 📚 Documentation enthusiast
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python--0969da?style=for-the-badge&logo=python) ![PHP](https://img.shields.io/badge/PHP--0969da?style=for-the-badge&logo=php) ![Shell](https://img.shields.io/badge/Shell--0969da?style=for-the-badge&logo=shell) ![Django](https://img.shields.io/badge/Django--0969da?style=for-the-badge&logo=django) ![Laravel](https://img.shields.io/badge/Laravel--0969da?style=for-the-badge&logo=laravel) ![MySQL](https://img.shields.io/badge/MySQL--0969da?style=for-the-badge&logo=mysql) ![MariaDB](https://img.shields.io/badge/MariaDB--0969da?style=for-the-badge&logo=mariadb) ![Nginx](https://img.shields.io/badge/Nginx--0969da?style=for-the-badge&logo=nginx) ![Docker](https://img.shields.io/badge/Docker--0969da?style=for-the-badge&logo=docker) ![TensorFlow](https://img.shields.io/badge/TensorFlow--0969da?style=for-the-badge&logo=tensorflow) ![scikit-learn](https://img.shields.io/badge/scikit--learn--0969da?style=for-the-badge&logo=scikit-learn) ![NumPy](https://img.shields.io/badge/NumPy--0969da?style=for-the-badge&logo=numpy) ![Jupyter](https://img.shields.io/badge/Jupyter--0969da?style=for-the-badge&logo=jupyter) ![Git](https://img.shields.io/badge/Git--0969da?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub--0969da?style=for-the-badge&logo=github) ![VS Code](https://img.shields.io/badge/VS%20Code--0969da?style=for-the-badge&logo=vscode) ![Linux](https://img.shields.io/badge/Linux--0969da?style=for-the-badge&logo=linux) ![Ubuntu](https://img.shields.io/badge/Ubuntu--0969da?style=for-the-badge&logo=ubuntu) ![Windows](https://img.shields.io/badge/Windows--0969da?style=for-the-badge&logo=windows) ![WordPress](https://img.shields.io/badge/WordPress--0969da?style=for-the-badge&logo=wordpress)
-
-<p align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marsnts&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=marsnts&theme=dark&layout=compact) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marsnts&theme=dark) ![Trophies](https://github-profile-trophy.vercel.app?username=marsnts&theme=dark&row=1&column=6)</p>
-
-## Featured Projects
-
-### resume
-No description provided
-[📁 Repository](https://github.com/marsnts/resume)
-
-### git-learning-log
-Learning Git and Github
-[📁 Repository](https://github.com/marsnts/git-learning-log)
-
-
-## Connect With Me
-
-<p align="center">[github](https://github.com/marsnts) | [linkedin](https://www.linkedin.com/in/martin-andrei-santos-84a558268/) | [Email](mailto: martinandreiusantos@gmail.com)</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=445&height=44&lines=Aspiring%20DevNetOps%20Engineer" alt="Typing headlines" />
+</p>
 
 ---
 
-*Made with ❤️ using [GitHub Profile Studio](https://github.com/github-profile-studio)*
+### 🚀 About Me
+
+I enjoy turning ideas into working software and learning something new every day.  
+My interests include electronics, networking, automation, programming, and open-source contributions.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/marsnts/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:martinandreiusantos@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=marsnts&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=marsnts&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marsnts&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+<p align="center">
+  “The most powerful tool we have as developers is automation.”
+  — Scott Hanselman
+</p>
